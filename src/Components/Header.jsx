@@ -24,6 +24,14 @@ const Header = () => {
       <a href="#home">Home</a>
       <a href="#about">About</a>
       <a href="#portfolio">Portfolio</a>
+      <a
+        href="https://drive.google.com/file/d/1Q9cHqWckBMGSu_-whRRFkNE0K0vHGjHd/view?usp=sharing"
+        download
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Resume
+      </a>
       <a href="#footer">Contact</a>
     </div>
   );

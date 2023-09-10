@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Planet Explorer",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A hybrid mobile application developed using React Native and Expo. It provides users with access to detailed information about planets, allows searching for space-related media using NASA API, and delivers the latest space news updates.",
+    url: "https://github.com/hrishiakhade/Planet-Explorer",
   },
   {
-    title: "Web Development for Beginners",
+    title: "BiteBuddy",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A mobile app that quizzes users with six questions and, based on their answers, recommends restaurants from a curated list. Designed for mobile devices, it has undergone rigorous stress testing to ensure optimal performance.",
+    url: "https://github.com/hrishiakhade/lettuce_entertain_you_challenge",
   },
   {
-    title: "My Resume Site",
+    title: "NYC Airbnb Analysis",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Utilized Big Data concepts to analyze New York Airbnb listings data with PySpark, leveraging MongoDB as a NoSQL database. The project involved ingesting CSV data into MongoDB Atlas, connecting MongoDB to Python, and conducting data analysis. Visualizations were created using Python and MongoDB Chart Builder for insightful results.",
+    url: "https://github.com/hrishiakhade/nyc_airbnb_analysis",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Asteroid Science",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "Analyze asteroid data to predict asteroid diameter using various machine learning models, including Random Forest, Linear Regression, KNN, XGBoost, and Neural Networks. Evaluate model performance for accurate predictions.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];

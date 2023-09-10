@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a recent graduate from Indiana University with a passion for technology and data-driven solutions. My expertise lies in creating dynamic mobile and web applications using React and React Native, where I thrive in turning innovative ideas into user-friendly experiences.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Mobile App Development",
+  "Website Development",
+  "User Experience",
+  "Data Visualization",
+  "Data Analysis",
+  "Data Science",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I bring expertise in React and React Native app development, complemented by a strong background in data analysis, visualization, and data science. My website portfolio showcases projects that demonstrate proficiency in both front-end and back-end solutions. From user interfaces to data-driven research, I'm committed to crafting impactful digital solutions.";
 
 const About = () => {
   return (
